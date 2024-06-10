@@ -1,2 +1,1 @@
-print("pija")
-print ("concha")
+print("puto el que lee")
